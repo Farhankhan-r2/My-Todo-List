@@ -143,6 +143,8 @@ h1::before {
   display: none;
 }
 
+
+
 .task-complete .checkmark {
   width: 20px;
   height: 20px;
